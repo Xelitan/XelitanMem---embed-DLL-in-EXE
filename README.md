@@ -4,7 +4,7 @@ This library uses https://github.com/Fr0sT-Brutal/Delphi_MemoryModule. Tested on
 
 ## What is this for?
 
-This allows you to embed any number of DLLs inside your EXE and use them **directly** from RAM without unpacking to disk.
+This allows you to embed any number of DLLs inside your EXE and use them **directly** from RAM without unpacking to disk. You can even gzip them so the .EXE file is smaller.
 
 ## Usage example
 
