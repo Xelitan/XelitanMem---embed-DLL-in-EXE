@@ -1,6 +1,6 @@
 # XelitanMem - embed DLL in EXE
 
-This library used https://github.com/Fr0sT-Brutal/Delphi_MemoryModule. Tested on Lazarus 3.8 64 bit.
+This library uses https://github.com/Fr0sT-Brutal/Delphi_MemoryModule. Tested on Lazarus 3.8 64 bit.
 
 ## What is this for?
 
